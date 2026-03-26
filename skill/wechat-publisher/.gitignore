@@ -1,0 +1,4 @@
+
+# local config
+../../config/wechat-publisher/
+__pycache__/
