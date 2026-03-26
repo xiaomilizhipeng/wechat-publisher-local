@@ -1,5 +1,7 @@
 # wechat-publisher-local
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Version](https://img.shields.io/badge/version-v0.1.0-blue.svg)
+
 一个本地安全版的微信公众号草稿发布技能，用于把 Markdown 或 HTML 内容创建为微信公众号草稿。
 
 这个仓库的目标不是“自动群发”，而是：
